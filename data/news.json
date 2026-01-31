@@ -1,35 +1,65 @@
 {
-  "lastUpdated": "2026-01-30T14:00:00Z",
+  "lastUpdated": "2026-01-31T04:51:12.067401Z",
   "articles": [
     {
-      "headline": "OpenAI launches Operator — autonomous browser agent for tasks",
-      "source": "TechCrunch",
+      "headline": "OpenClaw\u2019s AI assistants are now building their own social network",
+      "source": "AI News & Artificial Intellige",
       "date": "Jan 2026",
-      "link": "https://techcrunch.com/"
+      "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/"
     },
     {
-      "headline": "Anthropic releases Claude with computer use capabilities",
-      "source": "The Verge",
+      "headline": "Anthropic brings agentic plug-ins to Cowork",
+      "source": "AI News & Artificial Intellige",
       "date": "Jan 2026",
-      "link": "https://theverge.com/"
+      "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/"
     },
     {
-      "headline": "Google DeepMind announces Gemini 2.0 with agentic features",
-      "source": "Wired",
-      "date": "Dec 2025",
-      "link": "https://wired.com/"
+      "headline": "Guys, I don\u2019t think Tim Cook knows how to monetize AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/"
     },
     {
-      "headline": "AWS announces new Amazon Bedrock features for enterprise AI",
-      "source": "VentureBeat",
-      "date": "Dec 2025",
-      "link": "https://venturebeat.com/"
+      "headline": "Amazon is reportedly in talks to invest $50B in OpenAI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/"
     },
     {
-      "headline": "Microsoft Copilot adds multi-agent orchestration",
-      "source": "Ars Technica",
-      "date": "Dec 2025",
-      "link": "https://arstechnica.com/"
+      "headline": "Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/"
+    },
+    {
+      "headline": "Apple buys Israeli startup Q.ai as the AI race heats up",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/"
+    },
+    {
+      "headline": "I built marshmallow castles in Google\u2019s new AI-world generator",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/"
+    },
+    {
+      "headline": "OpenAI\u2019s Sora app is struggling after its stellar launch",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/"
+    },
+    {
+      "headline": "Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/"
+    },
+    {
+      "headline": "India is teaching Google how AI in education can scale",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/"
     }
   ]
 }
