@@ -1,0 +1,40 @@
+{
+  "lastUpdated": "2026-01-30T14:00:00Z",
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "price": 142.50,
+      "marketCap": "3.5T",
+      "change": 2.35
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "price": 196.00,
+      "marketCap": "2.4T",
+      "change": 1.12
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "price": 442.50,
+      "marketCap": "3.3T",
+      "change": -0.45
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "price": 228.00,
+      "marketCap": "2.4T",
+      "change": 1.87
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "price": 620.00,
+      "marketCap": "1.6T",
+      "change": 0.92
+    }
+  ]
+}

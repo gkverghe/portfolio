@@ -1,0 +1,35 @@
+{
+  "lastUpdated": "2026-01-30T14:00:00Z",
+  "articles": [
+    {
+      "headline": "OpenAI launches Operator — autonomous browser agent for tasks",
+      "source": "TechCrunch",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/"
+    },
+    {
+      "headline": "Anthropic releases Claude with computer use capabilities",
+      "source": "The Verge",
+      "date": "Jan 2026",
+      "link": "https://theverge.com/"
+    },
+    {
+      "headline": "Google DeepMind announces Gemini 2.0 with agentic features",
+      "source": "Wired",
+      "date": "Dec 2025",
+      "link": "https://wired.com/"
+    },
+    {
+      "headline": "AWS announces new Amazon Bedrock features for enterprise AI",
+      "source": "VentureBeat",
+      "date": "Dec 2025",
+      "link": "https://venturebeat.com/"
+    },
+    {
+      "headline": "Microsoft Copilot adds multi-agent orchestration",
+      "source": "Ars Technica",
+      "date": "Dec 2025",
+      "link": "https://arstechnica.com/"
+    }
+  ]
+}
