@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-01-31T04:51:12.067401Z",
+  "lastUpdated": "2026-02-02T14:39:01.590898Z",
   "articles": [
+    {
+      "headline": "Linq raises $20M to enable AI assistants to live within messaging apps",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/"
+    },
+    {
+      "headline": "These AI notetaking devices can help you record and transcribe your meetings",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/"
+    },
+    {
+      "headline": "AI layoffs or \u2018AI-washing\u2019?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/"
+    },
+    {
+      "headline": "India offers zero taxes through 2047 to lure global AI workloads",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/"
+    },
+    {
+      "headline": "Nvidia CEO pushes back against report that his company\u2019s $100B OpenAI investment has stalled",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jan 2026",
+      "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/"
+    },
     {
       "headline": "OpenClaw\u2019s AI assistants are now building their own social network",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jan 2026",
       "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/"
-    },
-    {
-      "headline": "Apple buys Israeli startup Q.ai as the AI race heats up",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/"
-    },
-    {
-      "headline": "I built marshmallow castles in Google\u2019s new AI-world generator",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/"
-    },
-    {
-      "headline": "OpenAI\u2019s Sora app is struggling after its stellar launch",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/"
-    },
-    {
-      "headline": "Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/"
-    },
-    {
-      "headline": "India is teaching Google how AI in education can scale",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/"
     }
   ]
 }
