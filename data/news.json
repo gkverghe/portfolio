@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-02-02T14:39:01.590898Z",
+  "lastUpdated": "2026-02-03T14:40:55.743194Z",
   "articles": [
+    {
+      "headline": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/"
+    },
+    {
+      "headline": "What Snowflake\u2019s deal with OpenAI tells us about\u00a0the enterprise AI race",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/"
+    },
+    {
+      "headline": "Firefox will soon let you block all of its generative AI features",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/"
+    },
+    {
+      "headline": "OpenAI launches new macOS app for agentic coding",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/"
+    },
+    {
+      "headline": "Carbon Robotics built an AI model that detects and\u00a0identifies\u00a0plants",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/"
+    },
     {
       "headline": "Linq raises $20M to enable AI assistants to live within messaging apps",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jan 2026",
       "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/"
-    },
-    {
-      "headline": "OpenClaw\u2019s AI assistants are now building their own social network",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/"
-    },
-    {
-      "headline": "Anthropic brings agentic plug-ins to Cowork",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/"
-    },
-    {
-      "headline": "Guys, I don\u2019t think Tim Cook knows how to monetize AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/"
-    },
-    {
-      "headline": "Amazon is reportedly in talks to invest $50B in OpenAI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/"
-    },
-    {
-      "headline": "Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/"
     }
   ]
 }
