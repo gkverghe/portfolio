@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-02-03T14:40:55.743194Z",
+  "lastUpdated": "2026-02-04T14:38:28.800368Z",
   "articles": [
+    {
+      "headline": "Alexa+, Amazon\u2019s AI assistant, is now available to everyone in the U.S.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/"
+    },
+    {
+      "headline": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/"
+    },
+    {
+      "headline": "Exclusive: Positron raises $230M Series B to take on Nvidia\u2019s AI chips",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/"
+    },
+    {
+      "headline": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/"
+    },
+    {
+      "headline": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/"
+    },
+    {
+      "headline": "Fitbit founders launch AI platform to help families monitor their health",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/"
+    },
     {
       "headline": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Feb 2026",
       "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/"
-    },
-    {
-      "headline": "Carbon Robotics built an AI model that detects and\u00a0identifies\u00a0plants",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/"
-    },
-    {
-      "headline": "Linq raises $20M to enable AI assistants to live within messaging apps",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/"
-    },
-    {
-      "headline": "These AI notetaking devices can help you record and transcribe your meetings",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/"
-    },
-    {
-      "headline": "AI layoffs or \u2018AI-washing\u2019?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/"
-    },
-    {
-      "headline": "India offers zero taxes through 2047 to lure global AI workloads",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/"
-    },
-    {
-      "headline": "Nvidia CEO pushes back against report that his company\u2019s $100B OpenAI investment has stalled",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jan 2026",
-      "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/"
     }
   ]
 }
