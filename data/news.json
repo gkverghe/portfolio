@@ -1,8 +1,56 @@
 {
-  "lastUpdated": "2026-02-04T14:38:28.800368Z",
+  "lastUpdated": "2026-02-05T14:40:36.774701Z",
   "articles": [
     {
-      "headline": "Alexa+, Amazon\u2019s AI assistant, is now available to everyone in the U.S.",
+      "headline": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/"
+    },
+    {
+      "headline": "Alphabet won\u2019t talk about the Google-Apple AI deal, even to investors",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/"
+    },
+    {
+      "headline": "Google\u2019s Gemini app has surpassed 750M monthly active users",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/"
+    },
+    {
+      "headline": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/"
+    },
+    {
+      "headline": "Amazon to begin testing AI tools for film and TV production next month",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/"
+    },
+    {
+      "headline": "A16z just raised $1.7B for AI infrastructure. Here\u2019s where it\u2019s going.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/"
+    },
+    {
+      "headline": "What a16z is\u00a0actually funding\u00a0(and what\u00a0it\u2019s\u00a0ignoring) when it comes to AI\u00a0infra",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/"
+    },
+    {
+      "headline": "Tinder looks to AI to help fight \u2018swipe fatigue\u2019 and dating app burnout",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/"
+    },
+    {
+      "headline": "Alexa+, Amazon\u2019s AI assistant, is now available to everyone in the US",
       "source": "AI News & Artificial Intellige",
       "date": "Feb 2026",
       "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/"
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Feb 2026",
       "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/"
-    },
-    {
-      "headline": "Exclusive: Positron raises $230M Series B to take on Nvidia\u2019s AI chips",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/"
-    },
-    {
-      "headline": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/"
-    },
-    {
-      "headline": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/"
-    },
-    {
-      "headline": "Fitbit founders launch AI platform to help families monitor their health",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/"
-    },
-    {
-      "headline": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/"
-    },
-    {
-      "headline": "What Snowflake\u2019s deal with OpenAI tells us about\u00a0the enterprise AI race",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/"
-    },
-    {
-      "headline": "Firefox will soon let you block all of its generative AI features",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/"
-    },
-    {
-      "headline": "OpenAI launches new macOS app for agentic coding",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/"
     }
   ]
 }
