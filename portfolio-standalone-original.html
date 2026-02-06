@@ -38,55 +38,6 @@ const PortfolioSite = () => {
       .catch(() => console.log('Using fallback news data'));
   }, []);
 
-  const thinkingPillars = [
-    {
-      title: "Problem Framing",
-      description: "Start with the decision, not the dashboard. I define the exact business question and the user action it should enable."
-    },
-    {
-      title: "Strategy & Prioritization",
-      description: "Align every build to a clear bet, success metric, and trade-off so teams know why we're saying no."
-    },
-    {
-      title: "Execution with Guardrails",
-      description: "Move fast with governance baked in—schemas, validation, and policy checks that keep speed and trust aligned."
-    },
-    {
-      title: "Measurement & Learning",
-      description: "Ship, measure, iterate. I design feedback loops that continuously improve the product and the data."
-    }
-  ];
-
-  const signalStrip = [
-    { value: "3", label: "0→1 platforms shipped", detail: "AI + data products" },
-    { value: "12+", label: "Stakeholder groups aligned", detail: "Across product, eng, legal" },
-    { value: "600+", label: "Monthly evaluations supported", detail: "Global experimentation" },
-    { value: "280MM+", label: "Users impacted", detail: "Platforms at scale" }
-  ];
-
-  const processSteps = [
-    {
-      title: "Discover",
-      description: "Identify the decision bottleneck and the highest-value user journeys.",
-      artifacts: ["Customer interviews", "Problem statement", "Opportunity sizing"]
-    },
-    {
-      title: "Define",
-      description: "Translate the problem into crisp product bets with aligned metrics.",
-      artifacts: ["PRD + KPI tree", "Metric definitions", "Experiment plan"]
-    },
-    {
-      title: "Deliver",
-      description: "Ship with guardrails and governance to keep trust intact.",
-      artifacts: ["Instrumentation plan", "Validation checks", "Launch playbook"]
-    },
-    {
-      title: "Measure",
-      description: "Close the loop with adoption insights and iteration cadences.",
-      artifacts: ["Usage analytics", "Impact review", "Roadmap updates"]
-    }
-  ];
-
   const projectsExecuted = [
     {
       id: 1,
@@ -102,12 +53,6 @@ const PortfolioSite = () => {
         "Prioritized high-frequency query patterns to maximize early adoption impact",
         "Built feedback loops to continuously improve model accuracy based on user corrections"
       ],
-      snapshot: {
-        goal: "Unblock business users from BI queue delays",
-        constraint: "Maintain governed metrics and trust in AI outputs",
-        decision: "Text-to-SQL + semantic layer + human validation",
-        result: "20% request deflection and 150+ MAU"
-      },
       impact: [
         "Deflected 20% of BI ad-hoc requests entirely through self-service",
         "Reduced turnaround time from ~3 hours to <1 hour for another 40% of requests",
@@ -130,12 +75,6 @@ const PortfolioSite = () => {
         "Built guardrails for compliance and approval workflows within the automated pipeline",
         "Partnered with engineering to design extensible framework for future campaign types"
       ],
-      snapshot: {
-        goal: "Reduce growth campaign launch timelines",
-        constraint: "Maintain compliance and multi-team approvals",
-        decision: "Agentic orchestration with embedded guardrails",
-        result: "Launches cut from 6+ weeks to ~12 days"
-      },
       impact: [
         "Reduced campaign launch timelines from 6+ weeks to ~12 days",
         "Enabled faster iteration on incentive-driven growth programs",
@@ -158,12 +97,6 @@ const PortfolioSite = () => {
         "Designed tiered experimentation workflows: simple A/B tests to complex multi-cell designs",
         "Created training programs and documentation to drive adoption across technical and non-technical users"
       ],
-      snapshot: {
-        goal: "Standardize experimentation across teams",
-        constraint: "Balance rigor with flexibility for diverse users",
-        decision: "Unified metric layer + tiered workflows",
-        result: "600+ evaluations/month with trusted results"
-      },
       impact: [
         "Scaled to 600+ evaluations per month across the platform",
         "Achieved 150+ monthly active Product and Marketing users",
@@ -291,50 +224,35 @@ const PortfolioSite = () => {
               </div>
             </div>
             <div className="flex-shrink-0">
-              <div
-                className="w-64 md:w-80 h-full min-h-[16rem] rounded-2xl border-4 border-slate-700 shadow-xl bg-center bg-cover"
-                style={{ backgroundImage: "url('./hero-right.png')" }}
-                aria-hidden="true"
-              ></div>
+              <div className="w-40 h-40 md:w-48 md:h-48 rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center border-4 border-slate-700 shadow-xl">
+                {/* Replace this with your photo: <img src="your-photo.jpg" className="w-full h-full rounded-full object-cover" alt="George Verghese" /> */}
+                <span className="text-5xl md:text-6xl font-bold text-white/80">GV</span>
+              </div>
             </div>
           </div>
         </div>
       </header>
 
-      {/* Thinking Framework */}
-      <section id="thinking-framework" className="bg-white border-b border-slate-200">
-        <div className="max-w-5xl mx-auto px-6 py-16">
-          <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-10">
-            <div>
-              <p className="text-sm font-semibold text-blue-600 mb-2">How I think as a PM</p>
-              <h2 className="text-3xl font-bold text-slate-900">A simple framework for product decisions</h2>
-            </div>
-            <a href="#philosophy" className="text-blue-600 font-medium hover:text-blue-700 transition">
-              Explore deeper principles →
-            </a>
-          </div>
-          <div className="grid md:grid-cols-2 gap-6">
-            {thinkingPillars.map((pillar) => (
-              <div key={pillar.title} className="p-6 rounded-xl border border-slate-200 bg-slate-50">
-                <h3 className="text-lg font-semibold text-slate-900 mb-2">{pillar.title}</h3>
-                <p className="text-slate-600 leading-relaxed">{pillar.description}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Signal Strip */}
+      {/* Quick Stats */}
       <section className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-6 py-12">
-          <div className="grid md:grid-cols-4 gap-6 text-center">
-            {signalStrip.map((signal) => (
-              <div key={signal.label} className="bg-slate-50 rounded-xl border border-slate-200 p-6">
-                <div className="text-3xl font-bold text-slate-900 mb-2">{signal.value}</div>
-                <div className="text-sm font-semibold text-slate-700">{signal.label}</div>
-                <div className="text-xs text-slate-500 mt-2">{signal.detail}</div>
-              </div>
-            ))}
+          <div className="grid grid-cols-4 gap-8 text-center">
+            <div>
+              <div className="text-3xl font-bold text-slate-900 mb-2">5+</div>
+              <div className="text-sm text-slate-600">Years in Product</div>
+            </div>
+            <div>
+              <div className="text-3xl font-bold text-slate-900 mb-2">280MM+</div>
+              <div className="text-sm text-slate-600">Users Impacted</div>
+            </div>
+            <div>
+              <div className="text-3xl font-bold text-slate-900 mb-2">600+</div>
+              <div className="text-sm text-slate-600">Monthly Evaluations</div>
+            </div>
+            <div>
+              <div className="text-3xl font-bold text-slate-900 mb-2">20+</div>
+              <div className="text-sm text-slate-600">Global Markets</div>
+            </div>
           </div>
         </div>
       </section>
@@ -372,24 +290,6 @@ const PortfolioSite = () => {
                         {tag}
                       </span>
                     ))}
-                  </div>
-                  <div className="mt-5 grid md:grid-cols-4 gap-3 text-sm">
-                    <div className="bg-slate-50 rounded-lg border border-slate-200 p-3">
-                      <p className="text-xs uppercase tracking-wide text-slate-500 mb-1">Goal</p>
-                      <p className="text-slate-700 font-medium">{study.snapshot.goal}</p>
-                    </div>
-                    <div className="bg-slate-50 rounded-lg border border-slate-200 p-3">
-                      <p className="text-xs uppercase tracking-wide text-slate-500 mb-1">Constraint</p>
-                      <p className="text-slate-700 font-medium">{study.snapshot.constraint}</p>
-                    </div>
-                    <div className="bg-slate-50 rounded-lg border border-slate-200 p-3">
-                      <p className="text-xs uppercase tracking-wide text-slate-500 mb-1">Decision</p>
-                      <p className="text-slate-700 font-medium">{study.snapshot.decision}</p>
-                    </div>
-                    <div className="bg-slate-50 rounded-lg border border-slate-200 p-3">
-                      <p className="text-xs uppercase tracking-wide text-slate-500 mb-1">Result</p>
-                      <p className="text-slate-700 font-medium">{study.snapshot.result}</p>
-                    </div>
                   </div>
                 </div>
 
@@ -449,33 +349,6 @@ const PortfolioSite = () => {
                     </div>
                   </div>
                 )}
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* PM Process */}
-      <section className="py-20 bg-white">
-        <div className="max-w-5xl mx-auto px-6">
-          <h2 className="text-3xl font-bold text-slate-900 mb-4">How I Operate End-to-End</h2>
-          <p className="text-lg text-slate-600 mb-12">
-            A repeatable product process that balances speed, rigor, and stakeholder alignment.
-          </p>
-
-          <div className="grid md:grid-cols-4 gap-6">
-            {processSteps.map((step) => (
-              <div key={step.title} className="p-6 rounded-xl border border-slate-200 bg-slate-50">
-                <h3 className="text-lg font-semibold text-slate-900 mb-2">{step.title}</h3>
-                <p className="text-slate-600 mb-4 leading-relaxed">{step.description}</p>
-                <ul className="space-y-2 text-sm text-slate-600">
-                  {step.artifacts.map((artifact) => (
-                    <li key={artifact} className="flex items-start gap-2">
-                      <span className="mt-1 h-1.5 w-1.5 rounded-full bg-blue-600"></span>
-                      <span>{artifact}</span>
-                    </li>
-                  ))}
-                </ul>
               </div>
             ))}
           </div>
