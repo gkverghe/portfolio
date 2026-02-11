@@ -506,7 +506,20 @@ const PortfolioSite = () => {
             Personal projects built for fun, learning, and creative exploration
           </p>
 
-          {/* Games */}
+           {/* Career Search */}
+          <div>
+            <h3 className="text-xl font-bold text-slate-900 mb-6 flex items-center gap-2">
+              <span className="text-2xl">💼</span> Career Search
+            </h3>
+            <div className="grid md:grid-cols-4 gap-4">
+              {vibeProjects.career.map((project) => (
+                <ProjectCard key={project.id} project={project} colorClass="bg-gradient-to-br from-blue-500 to-cyan-600" />
+              ))}
+            </div>
+          </div>
+        </div>
+          
+            {/* Games */}
           <div className="mb-16">
             <h3 className="text-xl font-bold text-slate-900 mb-6 flex items-center gap-2">
               <span className="text-2xl">🎮</span> Games
@@ -530,18 +543,7 @@ const PortfolioSite = () => {
             </div>
           </div>
 
-          {/* Career Search */}
-          <div>
-            <h3 className="text-xl font-bold text-slate-900 mb-6 flex items-center gap-2">
-              <span className="text-2xl">💼</span> Career Search
-            </h3>
-            <div className="grid md:grid-cols-4 gap-4">
-              {vibeProjects.career.map((project) => (
-                <ProjectCard key={project.id} project={project} colorClass="bg-gradient-to-br from-blue-500 to-cyan-600" />
-              ))}
-            </div>
-          </div>
-        </div>
+         
       </section>
 
       {/* Philosophy Section */}
