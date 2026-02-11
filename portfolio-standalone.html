@@ -175,6 +175,11 @@ const PortfolioSite = () => {
   ];
 
   const vibeProjects = {
+    career: [
+      { id: 1, title: "Interview Prep AI", description: "Practice interview questions with real-time AI feedback on answers, delivery, and areas for improvement", github: "https://github.com/gkverghe/AI-PM-Interviewer", screenshot: "./screenshots/interview-prep-ai.png" },
+      { id: 2, title: "Resume Optimizer", description: "ATS scoring engine that analyzes resumes against job descriptions and suggests targeted improvements", github: "https://github.com/gkverghe/PM-Resume-and-Job-Description-Evaluator/blob/main/README.md", screenshot: "./screenshots/resume-optimizer.png" },
+    ]
+
     games: [
       { id: 1, title: "Chutes & Ladders", description: "Classic board game reimagined digitally — built with input from my 5-year-old as lead product advisor", github: "https://github.com/gkverghe/Chutes-and-Ladder", screenshot: "./screenshots/chutes.png" },
       { id: 2, title: "Soccer Penalty Shootouts", description: "Interactive penalty kick game with goalkeeper AI and progressive difficulty", github: "https://github.com/gkverghe/SoccerShootout", screenshot: "./screenshots/Soccer.png" },
@@ -182,11 +187,7 @@ const PortfolioSite = () => {
     educational: [
       { id: 1, title: "Multi-Modal Story Generator", description: "AI-powered story creator where kids choose characters (family, friends), settings (jungle, castle, beach), and story types to generate personalized adventures", github: "https://github.com/gkverghe/story-generator"},
     ],
-    career: [
-      { id: 1, title: "Interview Prep AI", description: "Practice interview questions with real-time AI feedback on answers, delivery, and areas for improvement", github: "https://github.com/gkverghe/AI-PM-Interviewer", screenshot: "./screenshots/interview-prep-ai.png" },
-      { id: 2, title: "Resume Optimizer", description: "ATS scoring engine that analyzes resumes against job descriptions and suggests targeted improvements", github: "https://github.com/gkverghe/PM-Resume-and-Job-Description-Evaluator/blob/main/README.md", screenshot: "./screenshots/resume-optimizer.png" },
-    ]
-  };
+      };
 
   const ProjectCard = ({ project, colorClass }) => {
     const [imageFailed, setImageFailed] = useState(false);
