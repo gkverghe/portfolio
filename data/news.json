@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-02-16T14:38:42.013690Z",
+  "lastUpdated": "2026-02-17T14:41:47.921027Z",
   "articles": [
+    {
+      "headline": "India bids to attract over $200B in AI infrastructure investment by 2028",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/"
+    },
+    {
+      "headline": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/"
+    },
+    {
+      "headline": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build \u2018enterprise-grade\u2019 AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/"
+    },
+    {
+      "headline": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+      "source": "AI News & Artificial Intellige",
+      "date": "Feb 2026",
+      "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/"
+    },
     {
       "headline": "Flapping Airplanes on the future of AI: \u2018We want to try really radically different things\u2019",
       "source": "AI News & Artificial Intellige",
@@ -36,30 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Feb 2026",
       "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
-    },
-    {
-      "headline": "OpenClaw creator Peter Steinberger joins OpenAI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/"
-    },
-    {
-      "headline": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/"
-    },
-    {
-      "headline": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/"
-    },
-    {
-      "headline": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/"
     }
   ]
 }
