@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-03-02T14:40:11.016600Z",
+  "lastUpdated": "2026-03-03T14:40:56.003264Z",
   "articles": [
+    {
+      "headline": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+    },
+    {
+      "headline": "No one has a good plan for how AI companies should work with the government",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/"
+    },
+    {
+      "headline": "Users are ditching ChatGPT for Claude \u2014 here\u2019s how to make the switch",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
+    },
+    {
+      "headline": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+    },
+    {
+      "headline": "A married founder duo\u2019s company, 14.ai, is replacing customer support teams at startups",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
+    },
     {
       "headline": "Anthropic\u2019s Claude reports widespread outage",
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/"
+    },
+    {
+      "headline": "Investors spill what they aren\u2019t looking for anymore in AI SaaS companies",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/"
     },
     {
       "headline": "OpenAI reveals more details about its agreement with the Pentagon",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
-    },
-    {
-      "headline": "The billion-dollar infrastructure deals powering the AI boom",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/"
-    },
-    {
-      "headline": "OpenAI\u2019s Sam Altman announces Pentagon deal with \u2018technical safeguards\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/"
-    },
-    {
-      "headline": "Pentagon moves to designate Anthropic as a supply-chain risk",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/"
-    },
-    {
-      "headline": "Musk bashes OpenAI in deposition, saying \u2018nobody committed suicide because of Grok\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/"
-    },
-    {
-      "headline": "Anthropic vs. the Pentagon: What\u2019s actually at stake?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/"
-    },
-    {
-      "headline": "ChatGPT reaches 900M weekly active users",
-      "source": "AI News & Artificial Intellige",
-      "date": "Feb 2026",
-      "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/"
     }
   ]
 }
