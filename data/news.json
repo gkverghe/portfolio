@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-03-03T14:40:56.003264Z",
+  "lastUpdated": "2026-03-04T14:36:18.152917Z",
   "articles": [
+    {
+      "headline": "One startup\u2019s pitch to provide more reliable AI answers: crowdsource the chatbots",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/"
+    },
+    {
+      "headline": "Why AI startups are selling the same equity at two different prices",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/"
+    },
+    {
+      "headline": "Alibaba\u2019s Qwen tech lead steps down after major AI push",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/"
+    },
+    {
+      "headline": "AI companies are spending millions to thwart this former tech exec\u2019s congressional bid",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/"
+    },
+    {
+      "headline": "ChatGPT\u2019s new GPT-5.3 Instant model will stop telling you to calm down",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/"
+    },
+    {
+      "headline": "Claude Code rolls out a voice mode capability",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/"
+    },
+    {
+      "headline": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of \u2018armed conflict\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/"
+    },
     {
       "headline": "ChatGPT uninstalls surged by 295% after DoD deal",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
-    },
-    {
-      "headline": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
-    },
-    {
-      "headline": "A married founder duo\u2019s company, 14.ai, is replacing customer support teams at startups",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/"
-    },
-    {
-      "headline": "Anthropic\u2019s Claude reports widespread outage",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/"
-    },
-    {
-      "headline": "Investors spill what they aren\u2019t looking for anymore in AI SaaS companies",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/"
-    },
-    {
-      "headline": "OpenAI reveals more details about its agreement with the Pentagon",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/"
-    },
-    {
-      "headline": "Anthropic\u2019s Claude rises to No. 1 in the App Store following Pentagon dispute",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/"
-    },
-    {
-      "headline": "The trap Anthropic built for itself",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
     }
   ]
 }
