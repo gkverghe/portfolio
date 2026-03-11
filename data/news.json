@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-03-10T14:44:14.651862Z",
+  "lastUpdated": "2026-03-11T14:42:37.183832Z",
   "articles": [
     {
-      "headline": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+      "headline": "Google brings Gemini in Chrome to India",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/"
+    },
+    {
+      "headline": "Amazon launches its healthcare AI assistant on its website and app",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/"
+    },
+    {
+      "headline": "AI-powered apps struggle with long-term retention, new report shows",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/"
+    },
+    {
+      "headline": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/"
+    },
+    {
+      "headline": "AgentMail raises $6M to build an email service for AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/"
+    },
+    {
+      "headline": "Google gives in to users\u2019 complaints over AI-powered \u2018Ask Photos\u2019 search feature",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/"
+    },
+    {
+      "headline": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/"
     },
     {
-      "headline": "YouTube expands AI deepfake detection for politicians, government officials, and journalists",
+      "headline": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/"
+      "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/"
+    },
+    {
+      "headline": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/"
     },
     {
       "headline": "Adobe is debuting an AI assistant for Photoshop",
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/"
-    },
-    {
-      "headline": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/"
-    },
-    {
-      "headline": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/"
-    },
-    {
-      "headline": "Sandbar secures $23M Series A for its AI note-taking ring",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
-    },
-    {
-      "headline": "OpenAI and Google employees rush to Anthropic\u2019s defense in DOD lawsuit",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/"
-    },
-    {
-      "headline": "Anthropic launches code review tool to check flood of AI-generated code",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"
-    },
-    {
-      "headline": "OpenAI acquires Promptfoo to secure its AI agents",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/"
-    },
-    {
-      "headline": "Anthropic sues Defense Department over supply-chain risk designation",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/"
     }
   ]
 }
