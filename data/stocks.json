@@ -1,45 +1,45 @@
 {
-  "lastUpdated": "2026-03-13T14:39:36.371675Z",
+  "lastUpdated": "2026-03-16T14:55:29.144675Z",
   "stocks": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 183.63,
-      "marketCap": "4.5T",
-      "change": 0.27,
-      "previousClose": 183.14
+      "price": 183.78,
+      "marketCap": "4.4T",
+      "change": 1.96,
+      "previousClose": 180.25
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc",
-      "price": 306.72,
+      "price": 304.19,
       "marketCap": "3.7T",
-      "change": 1.04,
-      "previousClose": 303.55
+      "change": 0.63,
+      "previousClose": 302.28
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 402.19,
-      "marketCap": "3.0T",
-      "change": 0.08,
-      "previousClose": 401.86
+      "price": 397.12,
+      "marketCap": "2.9T",
+      "change": 0.4,
+      "previousClose": 395.55
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com Inc",
-      "price": 209.88,
+      "price": 208.9,
       "marketCap": "2.2T",
-      "change": 0.17,
-      "previousClose": 209.53
+      "change": 0.59,
+      "previousClose": 207.67
     },
     {
       "ticker": "META",
       "name": "Meta Platforms Inc",
-      "price": 625.33,
+      "price": 629.37,
       "marketCap": "1.6T",
-      "change": -2.01,
-      "previousClose": 638.18
+      "change": 2.55,
+      "previousClose": 613.71
     }
   ]
 }
