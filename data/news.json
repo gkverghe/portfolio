@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-03-23T14:51:28.108824Z",
+  "lastUpdated": "2026-03-24T14:54:01.095880Z",
   "articles": [
+    {
+      "headline": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/"
+    },
+    {
+      "headline": "Agile Robots\u00a0becomes the latest robotics company to partner with Google DeepMind",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/"
+    },
+    {
+      "headline": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/"
+    },
+    {
+      "headline": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/"
+    },
+    {
+      "headline": "Apple sets June date for WWDC 2026, teasing \u2018AI advancements\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/"
+    },
+    {
+      "headline": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
+    },
+    {
+      "headline": "Littlebird raises $11M for its AI-assisted \u2018recall\u2019 tool that reads your computer screen",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/"
+    },
+    {
+      "headline": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/"
+    },
+    {
+      "headline": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/"
+    },
     {
       "headline": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"
-    },
-    {
-      "headline": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
-    },
-    {
-      "headline": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
-    },
-    {
-      "headline": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/"
-    },
-    {
-      "headline": "Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/"
-    },
-    {
-      "headline": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/"
-    },
-    {
-      "headline": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
-    },
-    {
-      "headline": "What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/"
-    },
-    {
-      "headline": "Nvidia has an\u00a0OpenClaw\u00a0strategy. Do you?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/"
-    },
-    {
-      "headline": "WordPress.com now lets AI agents write and publish posts, and more",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
     }
   ]
 }
