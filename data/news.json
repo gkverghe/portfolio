@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-30T15:00:00.440691Z",
+  "lastUpdated": "2026-03-31T14:57:20.102405Z",
   "articles": [
+    {
+      "headline": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
+    },
+    {
+      "headline": "With its new app store, Ring bets on AI to go beyond home security",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
+    },
+    {
+      "headline": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
+    },
+    {
+      "headline": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
+    },
+    {
+      "headline": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"
+    },
     {
       "headline": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
-    },
-    {
-      "headline": "Sora\u2019s shutdown could be a reality check moment for AI video",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/"
-    },
-    {
-      "headline": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
-    },
-    {
-      "headline": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
-    },
-    {
-      "headline": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"
-    },
-    {
-      "headline": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
     }
   ]
 }
