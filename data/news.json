@@ -1,8 +1,44 @@
 {
-  "lastUpdated": "2026-03-31T14:57:20.102405Z",
+  "lastUpdated": "2026-04-01T15:00:32.495934Z",
   "articles": [
     {
-      "headline": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "headline": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
+    },
+    {
+      "headline": "Anthropic is having a month",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
+    },
+    {
+      "headline": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+    },
+    {
+      "headline": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
+    },
+    {
+      "headline": "Yupp shuts down after raising $33M from a16z crypto\u2019s Chris Dixon",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/"
+    },
+    {
+      "headline": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "source": "AI News & Artificial Intellige",
+      "date": "Mar 2026",
+      "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
+    },
+    {
+      "headline": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
-    },
-    {
-      "headline": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"
-    },
-    {
-      "headline": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
-    },
-    {
-      "headline": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
-    },
-    {
-      "headline": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"
-    },
-    {
-      "headline": "Qodo raises $70M for code verification as AI coding scales",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"
-    },
-    {
-      "headline": "Why OpenAI really shut down Sora",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
     }
   ]
 }
