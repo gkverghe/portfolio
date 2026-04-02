@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2026-04-01T15:00:32.495934Z",
+  "lastUpdated": "2026-04-02T14:51:59.935517Z",
   "articles": [
     {
-      "headline": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "headline": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
+    },
+    {
+      "headline": "Meta\u2019s natural gas binge could power South Dakota",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/"
+    },
+    {
+      "headline": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
+    },
+    {
+      "headline": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
@@ -42,24 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Mar 2026",
       "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
-    },
-    {
-      "headline": "With its new app store, Ring bets on AI to go beyond home security",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
-    },
-    {
-      "headline": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
-    },
-    {
-      "headline": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-      "source": "AI News & Artificial Intellige",
-      "date": "Mar 2026",
-      "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
     }
   ]
 }
