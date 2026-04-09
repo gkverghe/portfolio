@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-08T15:05:59.583980Z",
+  "lastUpdated": "2026-04-09T15:18:22.288462Z",
   "articles": [
+    {
+      "headline": "Poke makes using AI agents as easy as sending a text",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+    },
+    {
+      "headline": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/"
+    },
+    {
+      "headline": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/"
+    },
+    {
+      "headline": "Astropad\u2019s Workbench reimagines remote desktop for AI agents, not IT support",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/"
+    },
+    {
+      "headline": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/"
+    },
     {
       "headline": "Databricks co-founder wins prestigious ACM award, says \u2018AGI is here already\u2019",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/"
-    },
-    {
-      "headline": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/"
-    },
-    {
-      "headline": "Uber is the latest to be won over by Amazon\u2019s AI chips",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/"
-    },
-    {
-      "headline": "Anthropic\u00a0ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/"
-    },
-    {
-      "headline": "Google Maps can now write captions for your photos using AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
-    },
-    {
-      "headline": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/"
     }
   ]
 }
