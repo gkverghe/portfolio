@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-09T15:18:22.288462Z",
+  "lastUpdated": "2026-04-10T14:43:28.206276Z",
   "articles": [
+    {
+      "headline": "ChatGPT finally offers $100/month Pro plan",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
+    },
+    {
+      "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
+    },
+    {
+      "headline": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
+    },
+    {
+      "headline": "Is Anthropic limiting the release of Mythos to protect the internet \u2014 or Anthropic?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/"
+    },
+    {
+      "headline": "Google and Intel deepen AI infrastructure partnership",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"
+    },
     {
       "headline": "Poke makes using AI agents as easy as sending a text",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/"
-    },
-    {
-      "headline": "Databricks co-founder wins prestigious ACM award, says \u2018AGI is here already\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/"
-    },
-    {
-      "headline": "Atlassian launches visual\u00a0AI tools\u00a0and third-party agents\u00a0in Confluence",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/"
-    },
-    {
-      "headline": "Google quietly launched an AI dictation app that works offline",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
-    },
-    {
-      "headline": "I can\u2019t help rooting for tiny open source AI model maker Arcee",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
-    },
-    {
-      "headline": "Firmus, the \u2018Southgate\u2019 AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/"
     }
   ]
 }
