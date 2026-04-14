@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-04-13T15:13:01.154423Z",
+  "lastUpdated": "2026-04-14T15:10:06.551140Z",
   "articles": [
+    {
+      "headline": "Google brings its Gemini Personal Intelligence feature to India",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
+    },
+    {
+      "headline": "OpenAI has bought AI personal finance startup Hiro",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/"
+    },
+    {
+      "headline": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/"
+    },
+    {
+      "headline": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+    },
     {
       "headline": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
       "source": "AI News & Artificial Intellige",
@@ -36,30 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
-    },
-    {
-      "headline": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/"
-    },
-    {
-      "headline": "ChatGPT finally offers $100/month Pro plan",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/"
-    },
-    {
-      "headline": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/"
-    },
-    {
-      "headline": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
     }
   ]
 }
