@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-27T15:43:27.808813Z",
+  "lastUpdated": "2026-04-28T16:05:10.187784Z",
   "articles": [
+    {
+      "headline": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/"
+    },
+    {
+      "headline": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/"
+    },
+    {
+      "headline": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/"
+    },
+    {
+      "headline": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
+    },
+    {
+      "headline": "Investors back Skye\u2019s AI home screen app for iPhone ahead of launch",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/"
+    },
     {
       "headline": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/"
-    },
-    {
-      "headline": "Why Cohere is merging with Aleph Alpha",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/"
-    },
-    {
-      "headline": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
-    },
-    {
-      "headline": "Google to invest up to $40B in Anthropic in cash and compute",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
-    },
-    {
-      "headline": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
-    },
-    {
-      "headline": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/"
     }
   ]
 }
