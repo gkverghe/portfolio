@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-28T16:05:10.187784Z",
+  "lastUpdated": "2026-04-29T15:53:48.207334Z",
   "articles": [
+    {
+      "headline": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/"
+    },
+    {
+      "headline": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/"
+    },
+    {
+      "headline": "At his OpenAI trial, Musk relitigates an old friendship",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/"
+    },
+    {
+      "headline": "Amazon is already offering new OpenAI products on AWS",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/"
+    },
+    {
+      "headline": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/"
+    },
+    {
+      "headline": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal",
+      "source": "AI News & Artificial Intellige",
+      "date": "Apr 2026",
+      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/"
+    },
     {
       "headline": "YouTube is testing an AI-powered search feature that shows guided answers",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
-    },
-    {
-      "headline": "Investors back Skye\u2019s AI home screen app for iPhone ahead of launch",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/"
-    },
-    {
-      "headline": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/"
-    },
-    {
-      "headline": "OpenAI could be making a phone with AI agents replacing apps",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
-    },
-    {
-      "headline": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/"
-    },
-    {
-      "headline": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
-    },
-    {
-      "headline": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/"
     }
   ]
 }
