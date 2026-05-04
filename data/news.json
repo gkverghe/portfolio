@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-05-01T14:51:05.722627Z",
+  "lastUpdated": "2026-05-04T15:58:15.716687Z",
   "articles": [
+    {
+      "headline": "\u2018This is fine\u2019 creator says AI startup stole his art",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+    },
+    {
+      "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+    },
+    {
+      "headline": "AI-generated actors and scripts are now ineligible for Oscars",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
+    },
+    {
+      "headline": "The best AI dictation apps, tested and ranked",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
+    },
+    {
+      "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+    },
+    {
+      "headline": "Did you know you\u00a0can\u2019t\u00a0steal\u00a0a charity?\u00a0Don\u2019t\u00a0worry. Elon Musk will remind you.",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/"
+    },
+    {
+      "headline": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/"
+    },
+    {
+      "headline": "Musk v. Altman is just getting started",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/"
+    },
     {
       "headline": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "source": "AI News & Artificial Intellige",
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Apr 2026",
       "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/"
-    },
-    {
-      "headline": "Apple was surprised by AI-driven demand for Macs",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/"
-    },
-    {
-      "headline": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/"
-    },
-    {
-      "headline": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/"
-    },
-    {
-      "headline": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/"
-    },
-    {
-      "headline": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/"
-    },
-    {
-      "headline": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
-    },
-    {
-      "headline": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/"
-    },
-    {
-      "headline": "Salesforce is crowdsourcing its AI roadmap \u2014 with customers",
-      "source": "AI News & Artificial Intellige",
-      "date": "Apr 2026",
-      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/"
     }
   ]
 }
