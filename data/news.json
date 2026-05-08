@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-05-07T16:04:16.199054Z",
+  "lastUpdated": "2026-05-08T15:18:16.280612Z",
   "articles": [
+    {
+      "headline": "Why you can never get your doctor to call you back",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
+    },
+    {
+      "headline": "OpenAI launches new voice intelligence features in its API",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+    },
+    {
+      "headline": "Voi founders\u2019 new AI startup Pit has become the latest rising star out of Stockholm",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
+    },
+    {
+      "headline": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+    },
+    {
+      "headline": "Perplexity\u2019s Personal Computer is now available to everyone on Mac",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+    },
+    {
+      "headline": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/"
+    },
+    {
+      "headline": "Bumble is getting rid of the swipe, CEO says",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"
+    },
+    {
+      "headline": "How Anthropic\u2019s Mythos has rewritten Firefox\u2019s approach to cybersecurity",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"
+    },
     {
       "headline": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "source": "AI News & Artificial Intellige",
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "May 2026",
       "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
-    },
-    {
-      "headline": "Spotify\u2019s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/"
-    },
-    {
-      "headline": "Five architects of the AI economy explain where the wheels are coming off",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
-    },
-    {
-      "headline": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"
-    },
-    {
-      "headline": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
-    },
-    {
-      "headline": "Is xAI a neocloud now?",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
-    },
-    {
-      "headline": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
-    },
-    {
-      "headline": "DeepSeek could hit $45B valuation from its first investment round",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
-    },
-    {
-      "headline": "Google updates AI search to include quotes from Reddit and other sources",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
     }
   ]
 }
