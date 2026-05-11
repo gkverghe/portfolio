@@ -1,8 +1,50 @@
 {
-  "lastUpdated": "2026-05-08T15:18:16.280612Z",
+  "lastUpdated": "2026-05-11T16:28:50.261527Z",
   "articles": [
     {
-      "headline": "Why you can never get your doctor to call you back",
+      "headline": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/"
+    },
+    {
+      "headline": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/"
+    },
+    {
+      "headline": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+    },
+    {
+      "headline": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "headline": "Nvidia has already committed $40B to equity AI deals this year",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+    },
+    {
+      "headline": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+    },
+    {
+      "headline": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
+    },
+    {
+      "headline": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
       "source": "AI News & Artificial Intellige",
       "date": "May 2026",
       "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "May 2026",
       "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
-    },
-    {
-      "headline": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
-    },
-    {
-      "headline": "Perplexity\u2019s Personal Computer is now available to everyone on Mac",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
-    },
-    {
-      "headline": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/"
-    },
-    {
-      "headline": "Bumble is getting rid of the swipe, CEO says",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/"
-    },
-    {
-      "headline": "How Anthropic\u2019s Mythos has rewritten Firefox\u2019s approach to cybersecurity",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/"
-    },
-    {
-      "headline": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
-    },
-    {
-      "headline": "Spotify wants to become the home for AI-generated personal audio",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/"
     }
   ]
 }
