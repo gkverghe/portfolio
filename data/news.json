@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-05-11T16:28:50.261527Z",
+  "lastUpdated": "2026-05-12T16:15:53.520632Z",
   "articles": [
+    {
+      "headline": "Dessn raises $6M for its production focused design tool",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/"
+    },
+    {
+      "headline": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+    },
+    {
+      "headline": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/"
+    },
+    {
+      "headline": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/"
+    },
+    {
+      "headline": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+    },
+    {
+      "headline": "Digg tries again, this time as an AI news aggregator",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/"
+    },
+    {
+      "headline": "There aren\u2019t enough rockets for space data centers \u2014 Cowboy Space raised $275M to build them",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/"
+    },
     {
       "headline": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
       "source": "AI News & Artificial Intellige",
@@ -14,52 +56,10 @@
       "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/"
     },
     {
-      "headline": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "headline": "Voice AI in India is hard \u2014 Wispr Flow is betting on it anyway",
       "source": "AI News & Artificial Intellige",
       "date": "May 2026",
       "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
-    },
-    {
-      "headline": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "headline": "Nvidia has already committed $40B to equity AI deals this year",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
-    },
-    {
-      "headline": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
-    },
-    {
-      "headline": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
-    },
-    {
-      "headline": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
-    },
-    {
-      "headline": "OpenAI launches new voice intelligence features in its API",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
-    },
-    {
-      "headline": "Voi founders\u2019 new AI startup Pit has become the latest rising star out of Stockholm",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
     }
   ]
 }
