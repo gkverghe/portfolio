@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-18T16:44:37.677058Z",
+  "lastUpdated": "2026-05-19T16:48:06.076471Z",
   "articles": [
+    {
+      "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"
+    },
+    {
+      "headline": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+    },
+    {
+      "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+    },
+    {
+      "headline": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
+    },
     {
       "headline": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
       "source": "AI News & Artificial Intellige",
@@ -32,34 +56,10 @@
       "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/"
     },
     {
-      "headline": "The haves and have nots of the AI gold rush",
+      "headline": "The haves and have-nots of the AI gold rush",
       "source": "AI News & Artificial Intellige",
       "date": "May 2026",
       "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
-    },
-    {
-      "headline": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
-    },
-    {
-      "headline": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
-    },
-    {
-      "headline": "The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/"
-    },
-    {
-      "headline": "Silicon Valley\u2019s vacationland needs a new energy provider just as AI is driving prices up",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/"
     }
   ]
 }
