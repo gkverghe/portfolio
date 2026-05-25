@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-22T16:21:10.001006Z",
+  "lastUpdated": "2026-05-25T16:20:10.690172Z",
   "articles": [
+    {
+      "headline": "The pope\u2019s AI encyclical isn\u2019t really about AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/"
+    },
+    {
+      "headline": "Everyone is navigating AI security in real time \u2014 even Google",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/"
+    },
+    {
+      "headline": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
+    },
+    {
+      "headline": "Ferrari is using IBM\u2019s AI to create F1 superfans",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+    },
+    {
+      "headline": "AI is being used to resurrect the voices of dead pilots",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
+    },
+    {
+      "headline": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups",
+      "source": "AI News & Artificial Intellige",
+      "date": "May 2026",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
+    },
     {
       "headline": "You can no longer Google the word \u2018disregard\u2019",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "May 2026",
       "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"
-    },
-    {
-      "headline": "Trump delays AI security executive order, saying language \u2018could have been a blocker\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/"
-    },
-    {
-      "headline": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/"
-    },
-    {
-      "headline": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/"
-    },
-    {
-      "headline": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/"
-    },
-    {
-      "headline": "Hark raises $700M Series A for its secretive \u2018universal\u2019 AI interface",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/"
-    },
-    {
-      "headline": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/"
     }
   ]
 }
