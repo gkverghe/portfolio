@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-06-01T19:17:12.863543Z",
+  "lastUpdated": "2026-06-02T18:02:20.998865Z",
   "articles": [
+    {
+      "headline": "Microsoft offers devs a better way to control AI agent behavior",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
+    },
+    {
+      "headline": "Trump signs narrower executive order on AI oversight after industry objections",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"
+    },
+    {
+      "headline": "OpenAI launches new Codex tools for white-collar work",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/"
+    },
+    {
+      "headline": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+    },
+    {
+      "headline": "ZeroDrift raises $10M to protect AI models from themselves",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"
+    },
+    {
+      "headline": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
+    },
+    {
+      "headline": "Alphabet plans to raise $80B to pay for AI buildout",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/"
+    },
+    {
+      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
+    },
+    {
+      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/"
+    },
     {
       "headline": "Anthropic files to go public",
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
-    },
-    {
-      "headline": "This AI weather startup is out-forecasting government agencies",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
-    },
-    {
-      "headline": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
-    },
-    {
-      "headline": "Making sense of the debate over AI psychosis",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
-    },
-    {
-      "headline": "Meta is reportedly developing an AI pendant",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/"
-    },
-    {
-      "headline": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/"
-    },
-    {
-      "headline": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/"
-    },
-    {
-      "headline": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
-    },
-    {
-      "headline": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "headline": "What happens when companies become too AI-pilled?",
-      "source": "AI News & Artificial Intellige",
-      "date": "May 2026",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/"
     }
   ]
 }
