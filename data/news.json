@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-06-10T16:55:08.904368Z",
+  "lastUpdated": "2026-06-11T17:34:23.029709Z",
   "articles": [
+    {
+      "headline": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
+    },
+    {
+      "headline": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/"
+    },
+    {
+      "headline": "Opendoor\u2019s India exit is fueling a bigger conversation about AI and outsourcing",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/"
+    },
+    {
+      "headline": "Anthropic\u2019s Dario Amodei has just one direct report",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/"
+    },
+    {
+      "headline": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
+    },
+    {
+      "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/"
+    },
+    {
+      "headline": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/"
+    },
     {
       "headline": "How memory tools can make AI models worse",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
-    },
-    {
-      "headline": "Warner Music acquires AI attribution startup Sureel AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/"
-    },
-    {
-      "headline": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/"
-    },
-    {
-      "headline": "Meta signs first AI data center deal in India with Reliance",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/"
-    },
-    {
-      "headline": "Google just fired a warning shot in the AI subscription price wars",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/"
-    },
-    {
-      "headline": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/"
-    },
-    {
-      "headline": "Hey, Siri, here\u2019s what I actually want from AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/"
-    },
-    {
-      "headline": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/"
     }
   ]
 }
