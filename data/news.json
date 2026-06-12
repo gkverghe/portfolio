@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-11T17:34:23.029709Z",
+  "lastUpdated": "2026-06-12T16:41:13.247061Z",
   "articles": [
+    {
+      "headline": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
+    },
+    {
+      "headline": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/"
+    },
+    {
+      "headline": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
+    },
+    {
+      "headline": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+    },
     {
       "headline": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
       "source": "AI News & Artificial Intellige",
@@ -36,30 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/"
-    },
-    {
-      "headline": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/"
-    },
-    {
-      "headline": "How memory tools can make AI models worse",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/"
-    },
-    {
-      "headline": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
-    },
-    {
-      "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
     }
   ]
 }
