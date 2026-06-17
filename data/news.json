@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-16T18:25:12.999498Z",
+  "lastUpdated": "2026-06-17T16:52:40.009448Z",
   "articles": [
+    {
+      "headline": "Google bets on Gemini to reinvent the smart home speaker",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
+    },
+    {
+      "headline": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+    },
+    {
+      "headline": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/"
+    },
+    {
+      "headline": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/"
+    },
+    {
+      "headline": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/"
+    },
+    {
+      "headline": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
+    },
     {
       "headline": "Android 17 launches with new multitasking tools as Google expands Gemini features",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/"
-    },
-    {
-      "headline": "Probably raises $9M to build a more reliable kind of AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/"
-    },
-    {
-      "headline": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
-    },
-    {
-      "headline": "ChatGPT\u2019s market share slips below 50% for first time",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/"
-    },
-    {
-      "headline": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/"
-    },
-    {
-      "headline": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/"
-    },
-    {
-      "headline": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
     }
   ]
 }
