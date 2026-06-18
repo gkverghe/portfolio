@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-06-17T16:52:40.009448Z",
+  "lastUpdated": "2026-06-18T16:53:29.870727Z",
   "articles": [
+    {
+      "headline": "General Intuition in talks to raise $300M at around $2B valuation",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/"
+    },
+    {
+      "headline": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/"
+    },
+    {
+      "headline": "How to turn off AI in your Google Docs",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/"
+    },
+    {
+      "headline": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/"
+    },
+    {
+      "headline": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/"
+    },
+    {
+      "headline": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/"
+    },
+    {
+      "headline": "NEA\u2019s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/"
+    },
+    {
+      "headline": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/"
+    },
+    {
+      "headline": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
+    },
     {
       "headline": "Google bets on Gemini to reinvent the smart home speaker",
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
-    },
-    {
-      "headline": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
-    },
-    {
-      "headline": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/"
-    },
-    {
-      "headline": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/"
-    },
-    {
-      "headline": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/"
-    },
-    {
-      "headline": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
-    },
-    {
-      "headline": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
-    },
-    {
-      "headline": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/"
-    },
-    {
-      "headline": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/"
-    },
-    {
-      "headline": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/"
     }
   ]
 }
