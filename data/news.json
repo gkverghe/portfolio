@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-23T16:25:20.519308Z",
+  "lastUpdated": "2026-06-24T16:14:22.571588Z",
   "articles": [
+    {
+      "headline": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+    },
+    {
+      "headline": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
+    },
+    {
+      "headline": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
+    },
     {
       "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
       "source": "AI News & Artificial Intellige",
@@ -42,24 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
-    },
-    {
-      "headline": "Amazon is testing Alexa+ in India with Hindi support",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/"
-    },
-    {
-      "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"
-    },
-    {
-      "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/"
     }
   ]
 }
