@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-06-24T16:14:22.571588Z",
+  "lastUpdated": "2026-06-25T16:19:57.214218Z",
   "articles": [
+    {
+      "headline": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
+    },
+    {
+      "headline": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/"
+    },
+    {
+      "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
+    },
+    {
+      "headline": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
+    },
+    {
+      "headline": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
+    },
+    {
+      "headline": "AI researchers continue to leave Google for its rivals",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
+    },
+    {
+      "headline": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
+    },
+    {
+      "headline": "Facebook rolls out an AI companion app for creators",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
+    },
+    {
+      "headline": "Figma adds code layers, support for animations, more AI features in new update",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
+    },
     {
       "headline": "OpenAI unveils its first custom chip, built by Broadcom",
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
-    },
-    {
-      "headline": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
-    },
-    {
-      "headline": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
-    },
-    {
-      "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/"
-    },
-    {
-      "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
-    },
-    {
-      "headline": "OpenAI launches new initiative to help find and patch open source bugs",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
-    },
-    {
-      "headline": "The AI world is getting \u2018loopy\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
-    },
-    {
-      "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/"
-    },
-    {
-      "headline": "Nvidia wants to cut data center water use, but that\u2019s not the same as fixing AI\u2019s water problem",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/"
-    },
-    {
-      "headline": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
     }
   ]
 }
