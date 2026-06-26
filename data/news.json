@@ -1,11 +1,35 @@
 {
-  "lastUpdated": "2026-06-25T16:19:57.214218Z",
+  "lastUpdated": "2026-06-26T16:11:50.567579Z",
   "articles": [
     {
-      "headline": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+    },
+    {
+      "headline": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+    },
+    {
+      "headline": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+    },
+    {
+      "headline": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
+    },
+    {
+      "headline": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jun 2026",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
     },
     {
       "headline": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
@@ -36,30 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jun 2026",
       "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
-    },
-    {
-      "headline": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
-    },
-    {
-      "headline": "Facebook rolls out an AI companion app for creators",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
-    },
-    {
-      "headline": "Figma adds code layers, support for animations, more AI features in new update",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
-    },
-    {
-      "headline": "OpenAI unveils its first custom chip, built by Broadcom",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
     }
   ]
 }
