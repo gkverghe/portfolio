@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-07-01T16:22:40.960136Z",
+  "lastUpdated": "2026-07-02T16:03:32.561243Z",
   "articles": [
+    {
+      "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
+    },
+    {
+      "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
+    },
+    {
+      "headline": "Yep, we\u2019re using OpenClaw to date now",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
+    },
+    {
+      "headline": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+    },
+    {
+      "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
+    },
+    {
+      "headline": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
+    },
     {
       "headline": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
       "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
-    },
-    {
-      "headline": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
-    },
-    {
-      "headline": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
-    },
-    {
-      "headline": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
-    },
-    {
-      "headline": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
-    },
-    {
-      "headline": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
-    },
-    {
-      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-    },
-    {
-      "headline": "Acti puts AI agents directly into your smartphone keyboard",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jun 2026",
-      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
     }
   ]
 }
