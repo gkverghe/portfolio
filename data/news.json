@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-02T16:03:32.561243Z",
+  "lastUpdated": "2026-07-03T15:50:29.818043Z",
   "articles": [
+    {
+      "headline": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+    },
+    {
+      "headline": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
+    },
+    {
+      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+    },
+    {
+      "headline": "Anthropic is discussing a new custom chip with Samsung",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+    },
     {
       "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "source": "AI News & Artificial Intellige",
@@ -36,30 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
       "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
-    },
-    {
-      "headline": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "headline": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
-    },
-    {
-      "headline": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
-    },
-    {
-      "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
     }
   ]
 }
