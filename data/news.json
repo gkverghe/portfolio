@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-07-10T16:21:36.303006Z",
+  "lastUpdated": "2026-07-13T16:27:16.035432Z",
   "articles": [
+    {
+      "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
+    },
+    {
+      "headline": "Waze adds new AI-powered features and customization updates",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+    },
+    {
+      "headline": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+    },
+    {
+      "headline": "Meta removes controversial AI feature on Instagram after backlash",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+    },
+    {
+      "headline": "Apple sues OpenAI over alleged trade secret theft",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+    },
+    {
+      "headline": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+    },
+    {
+      "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
+    },
+    {
+      "headline": "Hugging Face\u2019s CEO on why companies are done renting their AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
+    },
     {
       "headline": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
       "source": "AI News & Artificial Intellige",
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-    },
-    {
-      "headline": "OpenAI launches its new family of models with GPT-5.6",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-    },
-    {
-      "headline": "An AI agent startup just let its agent run its $100M fundraise",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
-    },
-    {
-      "headline": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
-    },
-    {
-      "headline": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"
-    },
-    {
-      "headline": "Can AI answer the $3 trillion question?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
-    },
-    {
-      "headline": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
-    },
-    {
-      "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-    },
-    {
-      "headline": "Google will now disclose which ads are made with AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
     }
   ]
 }
