@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-16T15:28:51.403807Z",
+  "lastUpdated": "2026-07-17T15:09:30.841882Z",
   "articles": [
+    {
+      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "headline": "Google Vids now lets you star in your own AI videos",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
+    },
+    {
+      "headline": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
+    },
+    {
+      "headline": "Google\u2019s AI Mode now lets you link and interact with select apps",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+    },
+    {
+      "headline": "Yes, you can now order DoorDash from the command line",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
+    },
+    {
+      "headline": "Why is OpenAI selling a ChatGPT basketball?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
+    },
     {
       "headline": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
       "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
-    },
-    {
-      "headline": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
-    },
-    {
-      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
-    },
-    {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
-    },
-    {
-      "headline": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
-    },
-    {
-      "headline": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
-    },
-    {
-      "headline": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
     }
   ]
 }
