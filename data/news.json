@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-07-21T15:39:26.860464Z",
+  "lastUpdated": "2026-07-22T15:28:53.197267Z",
   "articles": [
+    {
+      "headline": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
+    },
+    {
+      "headline": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/"
+    },
+    {
+      "headline": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
+    },
+    {
+      "headline": "Meta is testing an AI bedtime story app for people with no imagination",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+    },
+    {
+      "headline": "OpenAI says Hugging Face was breached by its pre-release models",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
+    },
+    {
+      "headline": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+    },
+    {
+      "headline": "AI and the rise of the universal entertainment app",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
+    },
+    {
+      "headline": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
+      "source": "AI News & Artificial Intellige",
+      "date": "Jul 2026",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+    },
     {
       "headline": "US threatens sanctions against Chinese AI models over IP theft",
       "source": "AI News & Artificial Intellige",
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
       "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/"
-    },
-    {
-      "headline": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
-    },
-    {
-      "headline": "Trump\u2019s latest AI czar has already resigned",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
-    },
-    {
-      "headline": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
-    },
-    {
-      "headline": "AI\u2019s most important protocol is getting a little bit easier to use",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
-    },
-    {
-      "headline": "OpenAI is scared of open-weight models. Should the US be?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/"
-    },
-    {
-      "headline": "Adobe camera app\u2019s new feature will critique your photos using AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
-    },
-    {
-      "headline": "YouTube clarifies policies around AI slop and upsetting videos",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/"
-    },
-    {
-      "headline": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
     }
   ]
 }
