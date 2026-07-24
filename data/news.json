@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-07-23T15:51:52.299270Z",
+  "lastUpdated": "2026-07-24T15:21:45.394281Z",
   "articles": [
     {
-      "headline": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "headline": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
     },
     {
-      "headline": "Google\u2019s Gemini nears billion-user milestone",
+      "headline": "Midjourney acquired the astrology app Co-Star",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
     },
     {
-      "headline": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
+      "headline": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/"
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
     },
     {
-      "headline": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
     },
     {
-      "headline": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
+      "headline": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
     },
     {
-      "headline": "Google justifies its massive AI spending with a booming cloud business",
+      "headline": "Anthropic updates Claude voice mode with more capable models",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
     },
     {
-      "headline": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+      "headline": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
     },
     {
-      "headline": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+      "headline": "Runway launches AI model router as generative media gets crowded",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
     },
     {
-      "headline": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
+      "headline": "OpenAI makes ChatGPT Health available to all US users",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
     },
     {
-      "headline": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "headline": "Meta launched a new AI optimism ad set to a song about human extinction",
       "source": "AI News & Artificial Intellige",
       "date": "Jul 2026",
-      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
     }
   ]
 }
