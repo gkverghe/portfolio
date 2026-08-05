@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-08-04T16:08:35.883577Z",
+  "lastUpdated": "2026-08-05T15:58:44.135985Z",
   "articles": [
+    {
+      "headline": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+    },
+    {
+      "headline": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
+    },
+    {
+      "headline": "Anthropic is hiring an AI chip design team",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+    },
+    {
+      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
+    },
+    {
+      "headline": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+    },
+    {
+      "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+    },
+    {
+      "headline": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+    },
+    {
+      "headline": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+    },
+    {
+      "headline": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+    },
     {
       "headline": "Spotify expands AI remix and covers project with Merlin partnership",
       "source": "AI News & Artificial Intellige",
       "date": "Aug 2026",
       "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
-    },
-    {
-      "headline": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
-    },
-    {
-      "headline": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
-    },
-    {
-      "headline": "Is the future of data centers portable? Runware builds a pod to find out",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
-    },
-    {
-      "headline": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
-    },
-    {
-      "headline": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
-    },
-    {
-      "headline": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
-    },
-    {
-      "headline": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
-    },
-    {
-      "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
-    },
-    {
-      "headline": "Congress\u2019 favorite AI tool? ChatGPT",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
     }
   ]
 }
