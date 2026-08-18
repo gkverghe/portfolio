@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-08-17T14:21:37.123320Z",
+  "lastUpdated": "2026-08-18T14:27:29.647412Z",
   "articles": [
+    {
+      "headline": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+    },
+    {
+      "headline": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+    },
+    {
+      "headline": "Perplexity\u2019s free AI offer left it with millions more users in India",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/"
+    },
+    {
+      "headline": "Anthropic\u2019s annualized revenue surges to $65B",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+    },
+    {
+      "headline": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+    },
+    {
+      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
+      "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
+    },
     {
       "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "source": "AI News & Artificial Intellige",
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Aug 2026",
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
-    },
-    {
-      "headline": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
-    },
-    {
-      "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
-    },
-    {
-      "headline": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-    },
-    {
-      "headline": "SpaceX officially closes its Cursor acquisition",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
-    },
-    {
-      "headline": "Google will now allow users to remove visible watermark from its AI generations",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
-    },
-    {
-      "headline": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
-    },
-    {
-      "headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
-    },
-    {
-      "headline": "Meta\u2019s\u00a0\u2018open\u2019\u00a0AI, and a $250M deal gone very wrong",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
     }
   ]
 }
