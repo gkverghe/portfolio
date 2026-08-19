@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-08-18T14:27:29.647412Z",
+  "lastUpdated": "2026-08-19T14:27:14.446611Z",
   "articles": [
+    {
+      "headline": "AI isn\u2019t close to curing cancer. This startup says it knows what it will take.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
+    },
+    {
+      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+    },
+    {
+      "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+    },
+    {
+      "headline": "Etched\u2019s valuation doubles to $21B in a month",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+    },
+    {
+      "headline": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+    },
     {
       "headline": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
       "source": "AI News & Artificial Intellige",
@@ -30,36 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Aug 2026",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
-    },
-    {
-      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
-    },
-    {
-      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-    },
-    {
-      "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/"
-    },
-    {
-      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    },
-    {
-      "headline": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
     }
   ]
 }
