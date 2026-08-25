@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-08-24T14:35:45.882342Z",
+  "lastUpdated": "2026-08-25T14:39:07.804056Z",
   "articles": [
+    {
+      "headline": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+    },
+    {
+      "headline": "Accel-backed Keenable is indexing the web for AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    },
+    {
+      "headline": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
+    },
+    {
+      "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+    },
+    {
+      "headline": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+    },
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+    },
+    {
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+    },
     {
       "headline": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Aug 2026",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
-    },
-    {
-      "headline": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
-    },
-    {
-      "headline": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
-    },
-    {
-      "headline": "OpenAI says California should strengthen its AI safety bill",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
-    },
-    {
-      "headline": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
-    },
-    {
-      "headline": "Anthropic\u2019s Opus 4.6 is a smut-machine",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-    },
-    {
-      "headline": "Nvidia partners with data center developer Cloverleaf",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
-    },
-    {
-      "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
     }
   ]
 }
