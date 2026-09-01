@@ -1,11 +1,47 @@
 {
-  "lastUpdated": "2026-08-31T19:48:23.949345Z",
+  "lastUpdated": "2026-09-01T17:31:58.093411Z",
   "articles": [
+    {
+      "headline": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+    },
+    {
+      "headline": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+    },
+    {
+      "headline": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+    },
+    {
+      "headline": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+    },
+    {
+      "headline": "The Pentagon now has its own version of ChatGPT and Grok",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    },
     {
       "headline": "Instagram puts new limits on undisclosed AI profiles",
       "source": "AI News & Artificial Intellige",
       "date": "Aug 2026",
       "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "headline": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Aug 2026",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
     },
     {
       "headline": "Clipto uses AI to search terabytes of video and is now valued at $250M",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Aug 2026",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
-    },
-    {
-      "headline": "Sony Music, Warner sue Anthropic, alleging a \u2018brazen campaign\u2019 of intellectual property theft",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-    },
-    {
-      "headline": "At TechBBQ, Europe\u2019s AI conversations kept coming back to: Who\u2019s actually in control?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
-    },
-    {
-      "headline": "\u2018We\u2019re not doing 30 bets a year\u2019: Vijay Pande on betting small after running $4B at a16z",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
-    },
-    {
-      "headline": "Nvidia\u2019s AI advantage is moving beyond the GPU",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
-    },
-    {
-      "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-    },
-    {
-      "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Aug 2026",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
     }
   ]
 }
