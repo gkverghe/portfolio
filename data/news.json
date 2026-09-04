@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-09-03T17:28:14.692127Z",
+  "lastUpdated": "2026-09-04T17:20:06.516947Z",
   "articles": [
+    {
+      "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+    },
+    {
+      "headline": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
+    },
+    {
+      "headline": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+    },
+    {
+      "headline": "The sameness problem behind those unappetizing AI-generated menus",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+    },
+    {
+      "headline": "Abliteration.ai is making a business out of removing AI guardrails",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+    },
+    {
+      "headline": "Meta is paying to peek at how you use their latest AI model",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    {
+      "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+    },
     {
       "headline": "Ollie is betting its focus on privacy can help it win the AI assistant race",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Sep 2026",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
-    },
-    {
-      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
-    },
-    {
-      "headline": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
-    },
-    {
-      "headline": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
-    },
-    {
-      "headline": "We\u2019re\u00a0\u2018dangerously close\u2019 to dead internet theory, says Pangram\u2019s CEO",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
-    },
-    {
-      "headline": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
-    },
-    {
-      "headline": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
-    },
-    {
-      "headline": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
     }
   ]
 }
