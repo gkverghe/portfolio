@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-09-09T17:29:18.811822Z",
+  "lastUpdated": "2026-09-10T17:26:50.892897Z",
   "articles": [
+    {
+      "headline": "AI agents are flooding public services with new requests",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+    },
+    {
+      "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+    },
+    {
+      "headline": "OpenAI adds a prominent AI doomer to its board of directors",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+    },
+    {
+      "headline": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+    },
+    {
+      "headline": "The hinge for Apple\u2019s new foldable phone was built with AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+    },
+    {
+      "headline": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+    },
+    {
+      "headline": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
+    },
     {
       "headline": "Superintelligence is coming. Should we let it?",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Sep 2026",
       "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
-    },
-    {
-      "headline": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
-    },
-    {
-      "headline": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
-    },
-    {
-      "headline": "AI spend per employee slumped at top firms in August \u2014 summer doldrums or a warning sign?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
-    },
-    {
-      "headline": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
-    },
-    {
-      "headline": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-    },
-    {
-      "headline": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
-    },
-    {
-      "headline": "Hackers are stealing Claude tokens from subscribers",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
     }
   ]
 }
