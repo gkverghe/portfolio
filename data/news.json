@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-09-21T19:00:56.950963Z",
+  "lastUpdated": "2026-09-22T17:53:03.485278Z",
   "articles": [
+    {
+      "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+    },
+    {
+      "headline": "AstroForge is putting AI in command of its next spacecraft",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+    },
+    {
+      "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+    },
+    {
+      "headline": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
+    },
+    {
+      "headline": "Everyone can find a reason to dislike data center construction",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
+    },
+    {
+      "headline": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
+    },
+    {
+      "headline": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+    },
+    {
+      "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+    },
+    {
+      "headline": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+    },
     {
       "headline": "Meta\u2019s AI agent has been blocked from using Amazon.com",
       "source": "AI News & Artificial Intellige",
       "date": "Sep 2026",
       "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
-    },
-    {
-      "headline": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
-    },
-    {
-      "headline": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
-    },
-    {
-      "headline": "Is the AI industry really ready to slow down?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
-    },
-    {
-      "headline": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
-    },
-    {
-      "headline": "Google\u2019s Gemini is the latest AI model to hack other companies",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
-    },
-    {
-      "headline": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
-    },
-    {
-      "headline": "AI safety conversations have gotten unbelievable",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
-    },
-    {
-      "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
-    },
-    {
-      "headline": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
     }
   ]
 }
