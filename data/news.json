@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-09-24T18:06:37.582655Z",
+  "lastUpdated": "2026-09-25T18:11:31.022686Z",
   "articles": [
+    {
+      "headline": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+    },
+    {
+      "headline": "Astra and Opus just passed Turing\u2019s other test",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
+    },
+    {
+      "headline": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+    },
+    {
+      "headline": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+    },
+    {
+      "headline": "Anthropic\u2019s founders seek voting control ahead of IPO",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+    },
+    {
+      "headline": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+    },
+    {
+      "headline": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+    },
+    {
+      "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "source": "AI News & Artificial Intellige",
+      "date": "Sep 2026",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+    },
     {
       "headline": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
       "source": "AI News & Artificial Intellige",
@@ -12,54 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Sep 2026",
       "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
-    },
-    {
-      "headline": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
-    },
-    {
-      "headline": "Google tests letting Gemini call businesses for you",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-    },
-    {
-      "headline": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "headline": "TechCrunch Disrupt 2026: Cal AI\u2019s Zach Yadegari on how to create viral growth and capitalize on it",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
-    },
-    {
-      "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
-    },
-    {
-      "headline": "Everything new coming to Meta\u2019s AI agent Muse",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
-    },
-    {
-      "headline": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-    },
-    {
-      "headline": "Meta introduces camera-free AI glasses",
-      "source": "AI News & Artificial Intellige",
-      "date": "Sep 2026",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
     }
   ]
 }
