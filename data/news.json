@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-10-05T21:24:50.359599Z",
+  "lastUpdated": "2026-10-06T19:16:41.512921Z",
   "articles": [
+    {
+      "headline": "Hark releases an AI personal assistant with a focus on privacy",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+    },
+    {
+      "headline": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
+    },
+    {
+      "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+    },
+    {
+      "headline": "LibreOffice says \u2018no AI\u2019 is now a software feature",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
+    },
+    {
+      "headline": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+    },
+    {
+      "headline": "Pinterest\u2019s AI now turns beauty Pins into action plans",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/"
+    },
     {
       "headline": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Oct 2026",
       "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
-    },
-    {
-      "headline": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
-    },
-    {
-      "headline": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
-    },
-    {
-      "headline": "OpenAI launches visual ads that appear alongside image generation results",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
-    },
-    {
-      "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "headline": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
-    },
-    {
-      "headline": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
     }
   ]
 }
