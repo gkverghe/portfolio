@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-10-20T18:16:15.312640Z",
+  "lastUpdated": "2026-10-21T18:19:55.011385Z",
   "articles": [
+    {
+      "headline": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+    },
+    {
+      "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+    },
+    {
+      "headline": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+    },
+    {
+      "headline": "Anthropic\u2019s cloud partnerships are getting messy",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+    },
+    {
+      "headline": "SpaceX\u2019s AI business is beating expectations",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+    },
+    {
+      "headline": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+    },
+    {
+      "headline": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+    },
+    {
+      "headline": "ChatGPT now lets you lock your chats",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+    },
     {
       "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "source": "AI News & Artificial Intellige",
@@ -8,58 +56,10 @@
       "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
     },
     {
-      "headline": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "headline": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "source": "AI News & Artificial Intellige",
       "date": "Oct 2026",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
-    },
-    {
-      "headline": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
-    },
-    {
-      "headline": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
-    },
-    {
-      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
-    },
-    {
-      "headline": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
-    },
-    {
-      "headline": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-    },
-    {
-      "headline": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
-    },
-    {
-      "headline": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-    },
-    {
-      "headline": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
     }
   ]
 }
