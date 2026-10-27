@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-10-26T19:41:35.126137Z",
+  "lastUpdated": "2026-10-27T19:10:10.439403Z",
   "articles": [
+    {
+      "headline": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+      "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    },
+    {
+      "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "headline": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
+      "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    },
+    {
+      "headline": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
     {
       "headline": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Oct 2026",
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-    },
-    {
-      "headline": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-    },
-    {
-      "headline": "The hottest AI wearables and gadgets you should know about",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-    },
-    {
-      "headline": "Will AI expose the rickety infrastructure of the internet?",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
-    },
-    {
-      "headline": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "headline": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-    },
-    {
-      "headline": "Here are the top AI agents that can live in your text messages",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
     }
   ]
 }
