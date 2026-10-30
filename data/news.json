@@ -1,65 +1,65 @@
 {
-  "lastUpdated": "2026-10-29T19:22:51.164983Z",
+  "lastUpdated": "2026-10-30T18:56:56.832111Z",
   "articles": [
+    {
+      "headline": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    },
+    {
+      "headline": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+    },
+    {
+      "headline": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "headline": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+    },
+    {
+      "headline": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    },
+    {
+      "headline": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
+    {
+      "headline": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+    },
+    {
+      "headline": "Rivian expands joint venture with VW to include AI assistant",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+    },
+    {
+      "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+      "source": "AI News & Artificial Intellige",
+      "date": "Oct 2026",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
     {
       "headline": "Meta quietly launches an AI fashion app called Style Sketch",
       "source": "AI News & Artificial Intellige",
       "date": "Oct 2026",
       "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
-    },
-    {
-      "headline": "Granola crunches up a dictation feature to compete with Wispr",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
-    },
-    {
-      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
-    },
-    {
-      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
-    },
-    {
-      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
-    },
-    {
-      "headline": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
-    },
-    {
-      "headline": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
-    },
-    {
-      "headline": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-    },
-    {
-      "headline": "Google expands AI Search ads globally as core ad growth slows",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-    },
-    {
-      "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Oct 2026",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
     }
   ]
 }
