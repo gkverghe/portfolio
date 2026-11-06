@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-11-05T20:54:28.981789Z",
+  "lastUpdated": "2026-11-06T20:12:23.102986Z",
   "articles": [
+    {
+      "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "headline": "How a Blue Wave midterm might reshape the AI industry",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "headline": "After the midterms, is the AI industry in for a rough two years?",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    },
+    {
+      "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+    },
+    {
+      "headline": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+    },
     {
       "headline": "Meta says US users can now video chat with their Muse AI avatar",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Nov 2026",
       "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-    },
-    {
-      "headline": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
-    },
-    {
-      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
-    },
-    {
-      "headline": "Axiom Math wants to keep AI slop out of mathematics",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
-    },
-    {
-      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-    },
-    {
-      "headline": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-    },
-    {
-      "headline": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
-    },
-    {
-      "headline": "Apple is reportedly cutting budgets for its internal AI usage",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
     }
   ]
 }
