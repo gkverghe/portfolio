@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-11-12T21:16:16.068310Z",
+  "lastUpdated": "2026-11-13T20:43:49.309414Z",
   "articles": [
+    {
+      "headline": "AI agent startup LangChain hits $3B valuation",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "headline": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "headline": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "headline": "The unfolding Jensen Huang scandal: a timeline",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "headline": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+    },
+    {
+      "headline": "Muse can now place calls to US businesses \u2014 if you pay",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    },
+    {
+      "headline": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    },
     {
       "headline": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
       "source": "AI News & Artificial Intellige",
@@ -18,48 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Nov 2026",
       "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
-    },
-    {
-      "headline": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
-    },
-    {
-      "headline": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
-    },
-    {
-      "headline": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
-    },
-    {
-      "headline": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
-    },
-    {
-      "headline": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
-    },
-    {
-      "headline": "Norwest pushes deeper into AI with new $4B fund",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
-    },
-    {
-      "headline": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
     }
   ]
 }
