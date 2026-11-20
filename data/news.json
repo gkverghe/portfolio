@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-11-19T21:56:58.368430Z",
+  "lastUpdated": "2026-11-20T21:39:06.140613Z",
   "articles": [
+    {
+      "headline": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "headline": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "headline": "Six AI-powered gadgets that could make your home office smarter",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    },
+    {
+      "headline": "Apple may be developing its own AI agent that runs your Mac",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    },
+    {
+      "headline": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    },
+    {
+      "headline": "Meta\u2019s new Muse Charm device may cost $300",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+    },
     {
       "headline": "These tech outages are giving Y2K, AI agent style",
       "source": "AI News & Artificial Intellige",
@@ -14,7 +50,7 @@
       "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     },
     {
-      "headline": "Anthropic\u2019s IPO could deliver $156 billion to charity",
+      "headline": "Anthropic\u2019s IPO could deliver $156B to charity",
       "source": "AI News & Artificial Intellige",
       "date": "Nov 2026",
       "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Nov 2026",
       "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    },
-    {
-      "headline": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-    },
-    {
-      "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-    },
-    {
-      "headline": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-    },
-    {
-      "headline": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
-    },
-    {
-      "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
-    },
-    {
-      "headline": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
     }
   ]
 }
