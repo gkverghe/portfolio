@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-11-24T23:21:06.203250Z",
+  "lastUpdated": "2026-11-25T22:54:23.704711Z",
   "articles": [
+    {
+      "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "headline": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+    },
+    {
+      "headline": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+      "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+    },
+    {
+      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
     {
       "headline": "Even the best AI agents struggle with everyday life",
       "source": "AI News & Artificial Intellige",
@@ -24,42 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Nov 2026",
       "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
-    },
-    {
-      "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
-    },
-    {
-      "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-    },
-    {
-      "headline": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
-    },
-    {
-      "headline": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
-    },
-    {
-      "headline": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
-    },
-    {
-      "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
     }
   ]
 }
