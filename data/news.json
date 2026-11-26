@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-11-25T22:54:23.704711Z",
+  "lastUpdated": "2026-11-26T22:45:27.455917Z",
   "articles": [
+    {
+      "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "headline": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+      "source": "AI News & Artificial Intellige",
+      "date": "Nov 2026",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
     {
       "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "source": "AI News & Artificial Intellige",
@@ -48,18 +60,6 @@
       "source": "AI News & Artificial Intellige",
       "date": "Nov 2026",
       "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
-    },
-    {
-      "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
-    },
-    {
-      "headline": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "source": "AI News & Artificial Intellige",
-      "date": "Nov 2026",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
     }
   ]
 }
